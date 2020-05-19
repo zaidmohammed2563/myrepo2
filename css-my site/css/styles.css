@@ -1,0 +1,161 @@
+body{
+  background-color:white;
+  margin:0;
+  margin-top:0;
+  height:100%;
+  width:100%
+}
+h1{
+  width:600px;
+  height: 45px;
+  padding-bottom: 20px;
+  padding-top: 90px;
+  margin:  0 auto 250px auto;
+  display:block;
+  font-family: sacramento;
+ font-size: 130px;
+/*position: relative;
+top:100px;*/
+color: #66BFBF;
+line-height: 2;
+}
+.top-container{
+  height:1000px;
+  border-bottom: 0;
+  margin-top: 0;
+  background-color:#EAF6F6;
+}
+.para{
+  position: absolute;
+  top:320px;
+  left:45%;
+  font-size:3rem;
+  font-family: Montserrat;
+color: #66BFBF;
+font-weight: normal;
+}
+body{
+  text-align: center;
+  margin:0;
+  font-family:'Amatic SC', cursive;
+  font-size:30px;
+}
+h2{
+  font-family: Montserrat;
+  color:  #11999E;
+}
+h3{
+    font-family: Montserrat;
+  color:  #11999E;
+}
+img{
+height:auto;
+width:25%;
+border:0;
+}
+.mountain{
+  position:relative;
+  top:50px;
+  height:500px;
+  width:900px;
+}
+.middle-container{
+  border-top: 0;
+}
+.bottom-cloud{
+  position:absolute;
+  left:300px;
+  top:400px;
+  height:100px;
+  width:240px;
+}
+.top-cloud{
+  position:absolute;
+  right:350px;
+  margin-top:0;
+  height:100px;
+  width:240px;
+}
+.skill-row{
+  border:70px;
+  padding:40px;
+}
+hr{
+  height:20px;
+  border-width: 10px;
+  width:10%;
+  border-style:none;
+    border-top-style:dotted;
+border-color:#EAF6F6;
+position:relative;
+top:25px;
+margin:100px auto;
+line-height: 3;
+}
+a{
+  color:  #11999E;
+}
+.webphoto{
+ border-radius: 100%;
+  float: left;
+  margin-right: 45px;
+  margin-top: 50px;
+}
+.football{
+  position:relative;
+  left:30px;
+border-radius: 100%;
+float: right;
+margin-left: 10px;
+}
+.sub-h{
+  position:relative;
+  top:30px;
+  text-decoration: underline;
+}
+.head3{
+  display:inline-block;
+}
+.skill-row{
+  width:50%;
+ margin:100px auto;
+ text-align:left;
+}
+.hello{
+  line-height: 2;
+}
+.pgraph0{
+  line-height: 2;
+  font-weight: bolder;
+width:30%;
+margin:auto;
+}
+.bottom-container{
+  background-color: #66BFBF;
+  height:200px;
+}
+.footer-link{
+  color:#11999E;
+  position:relative;
+  top:30px;
+  line-height: 2;
+margin:15px;
+}
+.footer-link:hover{
+  color: white;
+}
+.last-line{
+  line-height: 2;
+}
+.contact-me{
+  line-height: 3;
+}
+.last-h4{
+  color:#11999E;
+  line-height: 2;
+  width:30%;
+  margin:auto;
+}
+.btn:hover{
+  color:darkblue;
+}
